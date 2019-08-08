@@ -1,0 +1,1 @@
+IstaStories - AspectRatio Fixed (BlackBars)
