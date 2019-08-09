@@ -1,4 +1,4 @@
-# IstaStories - AspectRatio Fixed (BlackBars)
+# InstaStories - AspectRatio Fixed (BlackBars)
 
 If you have an android phone that has a aspect ratio bigger than 16:9 and used the Stories from Instagram already, you may have noticed that the picture looks weird.
 
