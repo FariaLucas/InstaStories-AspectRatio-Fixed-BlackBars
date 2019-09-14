@@ -123,11 +123,11 @@ public class MainActivity extends AppCompatActivity {
     void AddBlackBars(Bitmap img) {
 
         int imageHeight = img.getHeight(), imageWidth = img.getWidth();
-        int positionTop = 88;
+        int positionTop = 200;
 
         Toast.makeText(this, "Normal Image- " + imageWidth + "x" + imageHeight, Toast.LENGTH_LONG).show();
 
-        frameImage.loadImage("1440x2960Frame.png", this.getAssets());
+        frameImage.loadImage("CenterImage1440.png", this.getAssets());
         resized = Bitmap.createScaledBitmap(img, 1440, 2560, true);
 
 
